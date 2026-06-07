@@ -57,7 +57,7 @@ This project combines Machine Learning, real-time monitoring, route visualizatio
 
 # 🧠 My Contribution
 
-### 👨‍💻 Ajay Singh — Machine Learning & Prediction System
+### 👨‍💻 Ajay Singh[@Ajayy-s](https://github.com/Ajayy-s) — Machine Learning & Prediction System
 
 * Built the Machine Learning prediction model
 * Performed preprocessing & feature engineering
@@ -70,7 +70,7 @@ This project combines Machine Learning, real-time monitoring, route visualizatio
 
 # 🤝 Team Collaboration
 
-### 💻 Keshav Kashyap — Frontend, Maps & Deployment
+### 💻 Keshav Kashyap[@Keshav-Kashyap](https://github.com/Keshav-Kashyap) — Frontend, Maps & Deployment
 
 * Developed frontend using React + Tailwind CSS
 * Built interactive map visualization system
