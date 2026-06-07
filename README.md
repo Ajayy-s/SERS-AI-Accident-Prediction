@@ -122,4 +122,4 @@ Even if this system helps save a single life, the project achieves its purpose.
 
 # 🌐 Live Demo
 
-[🚀 Live Demo](https://sers-full.onrender.com/demo)
+[🚀 Live Demo](https://sers-full.onrender.com/)
